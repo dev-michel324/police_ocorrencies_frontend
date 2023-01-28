@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  width: 60vw;
+  margin: auto;
+}
+
+.create_ocorrencie {
+  display: flex;
+  background-color: antiquewhite;
+  max-width: 480px;
+  justify-content: center;
+  align-items: center;
+}
