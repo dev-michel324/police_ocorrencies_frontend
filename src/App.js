@@ -1,11 +1,11 @@
 import "./index.css";
 import React from "react";
-import CreateOcorrencie from "./components/createOcorrencieForm";
+import AppRoutes from "./routes";
 
 function App() {
   return (
     <div className="App">
-     <CreateOcorrencie/>
+     <AppRoutes />
     </div>
   );
 }
